@@ -40,6 +40,8 @@ Duas respostas: Se o setor estiver habilitado para o usuario mostrar a mensagem:
 - Contexto de testes em navegadores (dica: cypress)
 - Manipulação do DOM em tempo de execução
 - Estruturação e hierarquia de arquivos
+- Classes e abstrações dos objetos optidos do backend
+- OOP
 
 # Backend
 
